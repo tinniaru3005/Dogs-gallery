@@ -9,7 +9,7 @@ const pets = [
     type: 'Dog',
     breed: 'Australian Shepherd',
     age: 8,
-    photo: '/img/aussie.jpg'
+    photo: 'img/aussie.jpg'
   },
   { 
     name: 'Patches',
